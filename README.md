@@ -8,3 +8,5 @@ _   __             _
 | |\  \| |  | (_| ||   <|  __/| | | |
 \_| \_/|_|   \__,_||_|\_\\___||_| |_|
 ```
+
+[![Build Status](https://travis-ci.org/zach-king/Kraken.svg?branch=master)](https://travis-ci.org/zach-king/Kraken)
