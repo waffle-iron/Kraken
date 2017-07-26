@@ -13,11 +13,11 @@ except ImportError:
 
 setup(
     name='Kraken',
-    version='0.1.0',
+    version='0.1.1',
     description='The Kraken scripting language',
     author='Zachary King',
-    author_email='kingzach77@gmail.com'
-    packages=['kraken',],
+    author_email='kingzach77@gmail.com',
+    packages=['src/kraken',],
     license='MIT',
     keywords=['kraken', 'language', 'scripting'],
     classifiers=[
